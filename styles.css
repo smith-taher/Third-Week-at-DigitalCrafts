@@ -1,0 +1,55 @@
+<style type = "text/css">
+        * {
+            box-sizing: border-box;
+        }
+        h1 {
+            background-color: grey;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+        h3 {
+            background-color: firebrick;
+            color: black;
+            padding: 10px;
+            text-align: center;
+            font-weight: bold;
+        }
+        span {
+            padding: 0;
+            text-align: left;
+            background-color:firebrick;
+            display: block;
+            width: 40%;
+        }
+        img {
+            display: inline-block;
+            margin: 5px;
+            padding: 0;
+            width: 200px;
+            height: 150px;
+            border: .50em solid gray;
+            vertical-align: middle;
+        }
+        div {
+            display: block;
+            padding: 0;
+            margin-bottom: 25px;
+            width: 50%;
+        }
+        nav {
+            position: relative;
+            background-color: white;
+            width: 200px;
+        }
+        body, html {
+            height: 100%;
+        }
+        body { 
+            background-image: url(http://www.feistees.com/wp-content/uploads/2014/03/crbrn.jpg);
+            height: 100%; 
+            background-position: center;
+            /* background-repeat: no-repeat; */
+            background-size: cover;
+        }
+        </style>
